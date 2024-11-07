@@ -1,0 +1,37 @@
+.hero{
+    background-image:url("./AIBackgraound.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+h1 , h2, p{
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+section{
+    padding: 20px;
+}
+.map{
+    right: 0;
+}
+
+.nav-link , a{
+    color: white;
+}
+
+.place{
+justify-content: center;
+justify-items: center;
+}
